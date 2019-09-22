@@ -1,1 +1,5 @@
-# Text-book-companion
+# About Text-book-companion
+Text book companion project(TBC) is organized by FOSSEE(https://fossee.in/) of Indian Institue of Technology-Bombay. TBC aims to provide computer based solution to problems present in textbooks. Interested student should choose a book in the interested engineering decipline and also a free/openware software. After choosing all these, he/she is required to provide solution for all numerical solved example in the software choosed.(reference: https://scilab.in/Textbook_Companion_Project)
+
+# My TBC
+I have choosen "Fluid Mechanics:Applications and Fundamentals by Y.A.Cengel and J.M.Cimbala" textbook and "SCILAB" to code the problems. So, out of 161 solved examples in the book I coded 108 solved numerical examples. Remaining examples were theory questions or questions with numerical computation. I have also uploaded result graphs (if available) file along with source code in each chapters. Depandency file is the file on which some examples depands to solve the example this can be data table, graphs, etc.
