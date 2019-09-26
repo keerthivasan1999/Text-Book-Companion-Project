@@ -1,1 +1,1 @@
-This is the third example of chapter five in the book.
+This is the third example of chapter six in the book.
